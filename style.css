@@ -1,0 +1,67 @@
+a{
+	color:blue;
+   }
+   h4{
+	color:green;
+   }
+   h3{
+	   color:blue;
+   }
+   *{
+	   margin:0 auto;
+   }
+   #halima{ 
+	   height:300px;
+	   background-image: url('back.jpg');
+   }
+   .aya{
+	   color:white;
+   }
+   nav{
+	   color:green;
+	   background-color:white-space;
+   }	
+
+   .siham{
+	   border-radius:50px;
+	   width:160px;
+   }
+   .hemo{
+	border-radius:50px;
+   }
+   #deusciéme{
+	   margin:5px;
+   }
+   .col1{
+	   width:50%;
+	   float:left;
+	   color:white;
+	   font-size:17px;
+      margin-top:0px;
+   }
+   .col2{
+	   width:50%;
+	   float:right;
+	   color:white;
+	   font-size:17px;
+   }
+   
+   #hafi{
+	   width:20%;
+   }
+   
+   label{
+	   display:block;
+	   margin-top:17px;
+   }
+   .inp{
+	   display:block;
+	   width:50%;
+	   background-color:transparent;
+	   border-radius:5px;
+	   font-family:serif;
+   }
+   button{
+	   font-size:16px;
+   }
+ 
